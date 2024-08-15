@@ -14,7 +14,7 @@ You're looking at it. Also complaining. The years of League of Legends have dest
 
 While I don't have a go to language, I certainly have some favourites. Usually, the lower, the better. 
 I'm a big fan of C and C++ since it actually feels like you're doing something when you use them. ASSEMBLY
-is fun in short bursts, but I can't say I have the mental capacity to code in it consistently. 
+is also fun when I'm feeling masochistic.
 
 **Least Favourite Coding Language:**
 
