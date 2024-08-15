@@ -12,13 +12,13 @@ You're looking at it. Also complaining. The years of League of Legends have dest
 
 **Favourite Coding Language:**
 
-While I don't have a go to language, I certainly have some favourites. Usually the lower the better. 
+While I don't have a go to language, I certainly have some favourites. Usually, the lower, the better. 
 I'm a big fan of C and C++ since it actually feels like you're doing something when you use them. ASSEMBLY
 is fun in short bursts, but I can't say I have the mental capacity to code in it consistently. 
 
 **Least Favourite Coding Language:**
 
-Anything relating to web development is affectionatly known as "The Devil's Programming". Why would you program 
+Anything relating to web development is affectionately known as "The Devil's Programming". Why would you program 
 something to be functional when you can program it to be oh so pretty. 
 
 **Favourite Quote:**
