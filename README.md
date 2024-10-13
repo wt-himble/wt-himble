@@ -1,4 +1,4 @@
-When I'm not posting about how much I love billionaires on LinkedIn, you can usually find me skulking about on GitHub. 
+When I'm not hiding in the library, you can usually find me skulking about on GitHub. 
 
 **What I do:**
 
