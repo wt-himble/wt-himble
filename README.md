@@ -2,9 +2,7 @@ When I'm not posting about how much I love billionaires on LinkedIn, you can usu
 
 **What I do:**
 
-What do I do on GitHub? I would say it's 90% making empty commits and 10% actually doing something. I treat 
-coding languages like I treat my girlfriends. I have commitment issues. That is to say, I don't have a specialty. 
-If you were looking for someone who exclusively codes in JavaScript, I'm not your guy. 
+What do I do on GitHub? I would say it's 90% making empty commits and 10% actually doing something.
 
 **What I do for fun:**
 
